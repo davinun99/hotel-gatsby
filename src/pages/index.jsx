@@ -5,7 +5,7 @@ const IndexPage = () => {
     return(
         <>
             <Layout>
-                <h1>Gatsby Hotel</h1>
+                <h1>Gatsby Hotel - Index </h1>
             </Layout>
         </>
     )
